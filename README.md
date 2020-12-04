@@ -6,19 +6,19 @@ In this project I took a complex and overworked, but working code and made it mo
 ---
 
 ### Table of Contents
-* [Installation](###Installation) 
-* [Usage](###Usage)  
-* [Credits](###Credits)  
-* [Badges](###Badges)  
-* [License](###License)
+* [Installation](#Installation) 
+* [Usage](#Usage)  
+* [Credits](#Credits)  
+* [Badges](#Badges)  
+* [License](#License)
 
 ---
-
+<a name = "Installation"></a>
 ### Installation 
 To install this code simply clone it in gitbash and download it to your remote server. Visual Studio Code is the application I used to be able to read and test the files. 
 
 ---
-
+<a name = "Usage"></a>
 ### Usage  
 To demonstrate the code's functionality and accessibility I have included screenshots. The CSS is compatible with an endless amount of variations made to the HTML document. I have added extra sections to the content and the sidebar to demonstrate this.
 
@@ -28,22 +28,23 @@ To demonstrate the code's functionality and accessibility I have included screen
 ![](Horiseon-example.png)
 
 ---
+<a name = "Links"></a>
 ### Links
 Below is an example of how the web page looked prior to reworking and below that 
 is a link to the deployed web page with the updated code. 
 
 ![](01-html-css-git-homework-demo.png)
 
- <a href = "https://mbennett1991.github.io/Week-2-Refactored/">Click Me!</a>
+ <a href = "https://mbennett1991.github.io/Week-2-Refactored/02-Homework/Develop/">Click Me!</a>
  
 ---
-  
+<a name = "Credits"></a>  
 ### Credits
 @ChiggyO
 
 
 ---
-
+<a name = "Badges"></a>
 ### Badges 
 <img src = "https://img.shields.io/badge/HTML-100%25-brightgreen"
 />
@@ -52,6 +53,6 @@ is a link to the deployed web page with the updated code.
 />
 
 ---
-
+<a name = "License"></a>
 ### License 
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
