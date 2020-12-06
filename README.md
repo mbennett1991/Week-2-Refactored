@@ -15,7 +15,7 @@ In this project I took a complex and overworked, but working code and made it mo
 ---
 <a name = "Installation"></a>
 ### Installation 
-To install this code simply clone it in gitbash and download it to your remote server. Visual Studio Code is the application I used to be able to read, edit and test the files. 
+No need to install! <a href = "https://mbennett1991.github.io/Week-2-Refactored/02-Homework/Develop/">Click Me!</a> To see the web page live in action.
 
 ---
 <a name = "Usage"></a>
@@ -30,12 +30,9 @@ To demonstrate the code's functionality and accessibility I have included screen
 ---
 <a name = "Links"></a>
 ### Links
-Below is an example of how the web page looked prior to reworking and below that 
-is a link to the deployed web page with the updated code. 
+Below is an example of how the web page looked prior to reworking the code.
 
 ![](01-html-css-git-homework-demo.png)
-
- <a href = "https://mbennett1991.github.io/Week-2-Refactored/02-Homework/Develop/">Click Me!</a>
  
 ---
 <a name = "Credits"></a>  

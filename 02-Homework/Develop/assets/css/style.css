@@ -1,4 +1,3 @@
-/*this is a comment*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -105,12 +104,12 @@ aside {
     background-color: #2589bd;
 }
 
-.sidebar {
+.benefits {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.sidebar-img {
+.benefits-img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
