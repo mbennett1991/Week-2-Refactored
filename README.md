@@ -1,7 +1,7 @@
 # Week-2-Refactored
 
 ### Description
-In this project I took a complex and overworked, but working code and made it more simple and cohesive, and still completely functional. I was motivated to do this project so that I could test my skill sets and learn more about the functions of both HTML and CSS. Some of the challenges I faced while doing this project were that the original code was not organized; it follow the basic syntax structures of HTML and CSS. In reworking the code, I made everything more simple so that it could easily be read by other developers as well as non-developers. Hope you enjoy!
+In this project I took a complex and overworked, but working code and made it more simple and cohesive, and still completely functional. I was motivated to do this project so that I could test my skill sets and learn more about the functions of both HTML and CSS. Some of the challenges I faced while doing this project were that the original code was not organized; it did not follow the basic syntax structures of HTML and CSS. In reworking the code, I made everything more simple so that it could easily be read by other developers as well as non-developers. Hope you enjoy!
 
 ---
 
@@ -15,7 +15,7 @@ In this project I took a complex and overworked, but working code and made it mo
 ---
 <a name = "Installation"></a>
 ### Installation 
-To install this code simply clone it in gitbash and download it to your remote server. Visual Studio Code is the application I used to be able to read and test the files. 
+To install this code simply clone it in gitbash and download it to your remote server. Visual Studio Code is the application I used to be able to read, edit and test the files. 
 
 ---
 <a name = "Usage"></a>
