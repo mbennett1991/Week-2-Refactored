@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-us">
-
+<!--I added a title to the webpage, which will show up on the tab of the page-->
 <head>
     <meta charset="UTF-8" />
     <link rel="stylesheet" href="./assets/css/style.css">
@@ -8,6 +8,10 @@
 </head>
 
 <body>
+<!--Changed all div tags to be more descriptive of what they are holding. Example is 
+    <div class ="header"> became <header>. 
+    This makes the code easier to understand because all the sections are 
+    labeled accordingly -->    
     <header>
         <h1>Hori<strong>seo</strong>n</h1>
         <nav>
@@ -24,23 +28,26 @@
             </ul>
         </nav>
     </header>
-    <img id="digital-marketing-meeting" src = "./assets/images/digital-marketing-meeting.jpg"/>
+<!--Moved the image below from the CSS file to the HTML File -->
+    <img id="digital-marketing-meeting" src = "./assets/images/digital-marketing-meeting.jpg" alt ="Digital Marketing #social-media-marketing"/>
     <content>
-        <section class="section-content" id="search-engine-optimization">
+<!-- Included alt tags on the all images and icons. It's good for keywords and on the off chance that the images do not show up, 
+    there will be text to state what the image is of -->        
+        <section class="section-content">
             <img class="img-float-left" src="./assets/images/search-engine-optimization.jpg" alt="Search Engine Optimization"/>
             <h2>Search Engine Optimization</h2>
             <p>
                 The dominance of mobile internet use means that users are searching for the right business as they travel, shop, or sit on their couch at home. Search Engine Optimization (SEO) allows you to increase your visibility and find the right customers for your business.
             </p>
         </section>
-        <section class="section-content" id="online-reputation-management">
+        <section class="section-content">
             <img class="img-float-right" src="./assets/images/online-reputation-management.jpg" alt= "Online Reputation Management"/>
             <h2>Online Reputation Management</h2>
             <p>
                 The web is full of opinions, and some of these can be negative. Social media allows anyone with an internet connection to say whatever they want about your business. Online Reputation Management gives you the control over what potential customers see when they search for your business.
             </p>
         </section>
-        <section class="section-content" id="social-media-marketing">
+        <section class="section-content">
             <img class="img-float-left" src="./assets/images/social-media-marketing.jpg" alt="Social Media Marketing"/>
             <h2>Social Media Marketing</h2>
             <p>
@@ -48,6 +55,8 @@
             </p>
         </section>
     </content>
+<!--This is the section on the side of the page. I simplified the classes to help
+further decongest the stylesheet -->
     <aside>
         <section class="sidebar">
             <h3>Lead Generation</h3>
@@ -71,6 +80,7 @@
             </p>
         </section>
     </aside>
+<!--And here we are at the end of the page! Again, changed div tags to be just what they are. :) -->    
     <footer>
         <h3>Made with ❤️️ by Horiseon</h3>
         <p>

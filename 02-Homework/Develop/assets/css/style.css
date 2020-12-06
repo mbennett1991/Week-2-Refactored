@@ -1,3 +1,4 @@
+/*this is a comment*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,6 +9,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/*This is styling for the navigation bar*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -46,12 +48,14 @@ a {
     text-decoration: none;
 }
 
+/*This is sizing for the main photo*/
 #digital-marketing-meeting {
     height: 800px;
     width: 100%;
     margin-bottom: 40px;
 }
 
+/*This is the styling for the main content of the webpage*/
 content {
     width: 75%;
     display: inline-block;
@@ -76,6 +80,7 @@ p {
     color: #ffffff;
 }
 
+/*This is an easy way to tell the images in the content sections where to sit on the webpage*/
 .img-float-left {
     float: left;
     margin-right: 25px;
@@ -88,6 +93,7 @@ p {
     max-height: 200px;
 }
 
+/*This is styling for the sidebar and it's images*/
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -110,6 +116,7 @@ aside {
     max-width: 150px;
 }
 
+/*This is the styling for the bottom of the webpage*/
 footer {
     padding: 30px;
     clear: both;
